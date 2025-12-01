@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "photo": "https://i.postimg.cc/tg1fvk34/car2.png",
+    "class": "Economy",
+    "text": "Affordable rides for daily travel perfect for short city trips.",
+    "price": "$10/km"
+  },
+  {
+    "id": 2,
+    "photo": "https://i.postimg.cc/tg1fvk34/car2.png",
+    "class": "Business",
+    "text": "Comfortable and stylish rides for professionals and meetings.",
+    "price": "$10/km"
+  },
+  {
+    "id": 3,
+    "photo": "https://i.postimg.cc/tg1fvk34/car2.png",
+    "class": "Luxury",
+    "text": "Top-tier premium rides with professional chauffeurs for special.",
+    "price": "$10/km"
+  }
+]
